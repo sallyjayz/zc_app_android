@@ -181,5 +181,11 @@
     <string name="contacts_who_can_t_add_you">Contacts who can’t add you to a channel will have the option of inviting you privately instead.</string>
     <string name="click_button_to_join_channel">Click button to join channel</string>
     <string name="button_to_join_channel">Button to join channel</string>
+    <string name="enter_channel_name">Enter channel name</string>
+    <string name="icon_to_set_image_for_new_channel">icon to set image for new channel</string>
+    <string name="set_your_channel_privacy_here">Set your channel privacy here</string>
+    <string name="make_my_channel_public">Make my channel public</string>
+    <string name="make_my_channel_private">Make my channel private</string>
+    <string name="button_to_save_basic_information">Button to save basic information</string>
 
 </resources>
